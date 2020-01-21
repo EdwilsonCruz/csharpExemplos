@@ -1,0 +1,11 @@
+/home/edwilson/Projects/csharpExemplos/01-Estrutura/bin/Debug/netcoreapp3.1/01-Estrutura
+/home/edwilson/Projects/csharpExemplos/01-Estrutura/bin/Debug/netcoreapp3.1/01-Estrutura.deps.json
+/home/edwilson/Projects/csharpExemplos/01-Estrutura/bin/Debug/netcoreapp3.1/01-Estrutura.runtimeconfig.json
+/home/edwilson/Projects/csharpExemplos/01-Estrutura/bin/Debug/netcoreapp3.1/01-Estrutura.runtimeconfig.dev.json
+/home/edwilson/Projects/csharpExemplos/01-Estrutura/bin/Debug/netcoreapp3.1/01-Estrutura.dll
+/home/edwilson/Projects/csharpExemplos/01-Estrutura/bin/Debug/netcoreapp3.1/01-Estrutura.pdb
+/home/edwilson/Projects/csharpExemplos/01-Estrutura/obj/Debug/netcoreapp3.1/01-Estrutura.csprojAssemblyReference.cache
+/home/edwilson/Projects/csharpExemplos/01-Estrutura/obj/Debug/netcoreapp3.1/01-Estrutura.AssemblyInfoInputs.cache
+/home/edwilson/Projects/csharpExemplos/01-Estrutura/obj/Debug/netcoreapp3.1/01-Estrutura.AssemblyInfo.cs
+/home/edwilson/Projects/csharpExemplos/01-Estrutura/obj/Debug/netcoreapp3.1/01-Estrutura.dll
+/home/edwilson/Projects/csharpExemplos/01-Estrutura/obj/Debug/netcoreapp3.1/01-Estrutura.pdb
