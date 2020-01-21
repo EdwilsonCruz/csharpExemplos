@@ -1,0 +1,11 @@
+/home/edwilson/Projects/csharpExemplos/Revisao/bin/Debug/netcoreapp3.1/Revisao
+/home/edwilson/Projects/csharpExemplos/Revisao/bin/Debug/netcoreapp3.1/Revisao.deps.json
+/home/edwilson/Projects/csharpExemplos/Revisao/bin/Debug/netcoreapp3.1/Revisao.runtimeconfig.json
+/home/edwilson/Projects/csharpExemplos/Revisao/bin/Debug/netcoreapp3.1/Revisao.runtimeconfig.dev.json
+/home/edwilson/Projects/csharpExemplos/Revisao/bin/Debug/netcoreapp3.1/Revisao.dll
+/home/edwilson/Projects/csharpExemplos/Revisao/bin/Debug/netcoreapp3.1/Revisao.pdb
+/home/edwilson/Projects/csharpExemplos/Revisao/obj/Debug/netcoreapp3.1/Revisao.csprojAssemblyReference.cache
+/home/edwilson/Projects/csharpExemplos/Revisao/obj/Debug/netcoreapp3.1/Revisao.AssemblyInfoInputs.cache
+/home/edwilson/Projects/csharpExemplos/Revisao/obj/Debug/netcoreapp3.1/Revisao.AssemblyInfo.cs
+/home/edwilson/Projects/csharpExemplos/Revisao/obj/Debug/netcoreapp3.1/Revisao.dll
+/home/edwilson/Projects/csharpExemplos/Revisao/obj/Debug/netcoreapp3.1/Revisao.pdb
