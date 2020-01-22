@@ -4,7 +4,7 @@ namespace _01_Estrutura
 {
     class Program
     {
-       
+
         static void Main(string[] args)
         {
             var fila = new Pilha();
@@ -15,11 +15,10 @@ namespace _01_Estrutura
             fila.Empilhar(randObj.Next());
             fila.Empilhar(randObj.Next());
             for (int i = 0; i < 6; i++){
-            
-            
-                Console.WriteLine(fila.Desempilhar());    
+
+                Console.WriteLine(fila.Desempilhar());
             }
-            
+
         }
     }
 }
