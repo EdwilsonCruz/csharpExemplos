@@ -39,12 +39,43 @@ namespace Revisao
                         {
                             if (al != null)
                             {
-                                Console.WriteLine($"ALUNO:{al.Nome} - NOTA:{al.Nota} ");    
+                                Console.WriteLine($"ALUNO:{al.Nome} - NOTA:{al.Nota}");    
                             }                            
                         }
                         break;
                     case "3":
                         //TODO: calcular a media geral
+                        decimal media = 0;
+                        var nrAlunos = 0;
+
+                        for (int i=0; i < alunos.Length; i++)
+                        {
+                            if (alunos[i] != null)
+                            {
+                                media = media + alunos[i].Nota;
+                                nrAlunos++;    
+                            }                            
+                        }                        
+                        var mediaGeral = media / nrAlunos;
+                        //Console.WriteLine($"Media: {mediaGeral}");
+                        
+                        if (mediaGeral < 4)
+                        {
+                            Console.WriteLine($"Media: {mediaGeral} - Conceito: {Conceito.I}");
+                        }else if (mediaGeral < 6)
+                        {
+                            Console.WriteLine($"Media: {mediaGeral} - Conceito: {Conceito.R}");
+                        }else if (mediaGeral < 8)
+                        {
+                            Console.WriteLine($"Media: {mediaGeral} - Conceito: {Conceito.B}");
+                        }else if (mediaGeral < 10)
+                        {
+                            Console.WriteLine($"Media: {mediaGeral} - Conceito: {Conceito.MB}");
+                        }else
+                        {
+                            Console.WriteLine($"Media: {mediaGeral} - Conceito: {Conceito.O}");
+                        }
+
                         break;
                     default:
                         throw new ArgumentOutOfRangeException();
