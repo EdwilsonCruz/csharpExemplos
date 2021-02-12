@@ -1,6 +1,18 @@
+# Build results
 01-Estrutura/.vs/01-Estrutura/xs/UserPrefs.xml
 Revisao/Revisao.sln
 Revisao/.vs/Revisao/xs/UserPrefs.xml
-bin
+*/bin
 01-Estrutura/01-Estrutura.sln
-Revisao/obj/Debug/netcoreapp3.1/Revisao.dll
+01-Estrutura/.vscode/
+Revisao/obj/
+01-Estrutura/obj/
+
+*.obj
+.builds
+*.tmp
+*.tmp_proj
+*.log
+
+# Visual Studio Code
+.vscode/

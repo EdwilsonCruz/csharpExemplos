@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Edwilson\\Desktop\\ed_workspace\\csharpExemplos\\Revisao\\Revisao.csproj",
-      "projectName": "Revisao",
-      "projectPath": "C:\\Users\\Edwilson\\Desktop\\ed_workspace\\csharpExemplos\\Revisao\\Revisao.csproj",
+      "projectUniqueName": "C:\\Users\\Edwilson\\Desktop\\ed_workspace\\csharpExemplos\\Aula02\\Aula02.csproj",
+      "projectName": "Aula02",
+      "projectPath": "C:\\Users\\Edwilson\\Desktop\\ed_workspace\\csharpExemplos\\Aula02\\Aula02.csproj",
       "packagesPath": "C:\\Users\\Edwilson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Edwilson\\Desktop\\ed_workspace\\csharpExemplos\\Revisao\\obj\\",
+      "outputPath": "C:\\Users\\Edwilson\\Desktop\\ed_workspace\\csharpExemplos\\Aula02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Edwilson\\AppData\\Roaming\\NuGet\\NuGet.Config"
