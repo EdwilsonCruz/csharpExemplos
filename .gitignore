@@ -7,7 +7,8 @@ Revisao/.vs/Revisao/xs/UserPrefs.xml
 01-Estrutura/.vscode/
 Revisao/obj/
 01-Estrutura/obj/
-
+*/bin/
+*/obj/
 *.obj
 .builds
 *.tmp

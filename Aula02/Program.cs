@@ -6,7 +6,13 @@ namespace Aula02
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("Lyncas Cursos!");
+      Console.WriteLine("Lyncas Cursos! ");
+      
+      foreach (var item in args)
+      {
+          Console.WriteLine(item);
+      }
+      
     }
   }
 }
